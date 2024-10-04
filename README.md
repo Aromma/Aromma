@@ -1,4 +1,4 @@
-## Hallo! ^_~
+## Hallo! 👍
 
 <!--
 **Aromma/Aromma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,5 +42,6 @@
 - As the founder and president of the Nihon Culture Club at Amity University, I love exploring Japanese culture.
 - I'm also fascinated by the intricate world of networks, hacking, and operating systems—always excited to uncover how things work behind the scenes!
 - I bake as well!
-
 ---
+Thanks for stopping by! 🙌✨
+
